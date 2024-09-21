@@ -4,6 +4,8 @@
     {
       "domain": [
         "live.fanmingming.com",
+        "gslbserv.itv.cmvideo.cn",
+        "live.fanmingming.com",
         "wxapp.tc.qq.com"
       ]
     },
@@ -16,8 +18,13 @@
     {
       "domain_keyword": [
         "fanmingming",
-        "tv"
-      ]
+        "tv",
+        "cctv",
+        "itv",
+        "tv",
+        "gslbserv",
+        "cmvideo"
+    
     },
     {
       "ip_cidr": [
