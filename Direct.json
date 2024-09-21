@@ -3,7 +3,7 @@
   "rules": [
     {
       "domain": [
-        "weixinsxy.com",
+        "live.fanmingming.com",
         "wxapp.tc.qq.com"
       ]
     },
@@ -15,8 +15,8 @@
     },
     {
       "domain_keyword": [
-        "cherrytv",
-        "cherr"
+        "fanmingming",
+        "tv"
       ]
     },
     {
