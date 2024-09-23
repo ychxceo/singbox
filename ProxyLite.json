@@ -3,9 +3,10 @@
   "rules": [
     {
       "domain": [
-        "bank.za.group"
+        "bank.za.group",
+        "url.cmliussss.com"
       ]
-    },
+    }
     {
       "domain_suffix": [
         ".weixinsxy.com",
